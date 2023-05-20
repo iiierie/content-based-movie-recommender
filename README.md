@@ -2,4 +2,4 @@
 Content Based Movie recommendation system made using python, pandas, numpy 
 
 
-STATUS: INCOMPLETE 
+STATUS: yet to be deployed 
